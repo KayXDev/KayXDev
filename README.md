@@ -1,66 +1,88 @@
-<br clear="both">
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:0077ff&height=180&section=header&text=KayX&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+</p>
 
-<h2 align="center">KayX</h2>
+<h3 align="center">🚀 Full-Stack Developer | Discord Bots | Web Systems | Automation</h3>
 
-###
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3500&pause=800&color=00FF99&center=true&vCenter=true&width=750&lines=Building+modern+systems+with+clean+code.;Discord+Bots+%7C+Web+Apps+%7C+APIs+%7C+Databases.;Security%2C+performance+and+scalability+focused.;Always+learning%2C+always+improving." />
+</p>
 
-<br clear="both">
-
-<img align="right" height="150" src="https://i.imgur.com/NDXEt8d.png"  />
-
-###
-
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=KayXSC&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KayXSC&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" alt="c logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <a href="ahernandezk08@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+<p align="center">
+  <a href="https://github.com/KayX">
+    <img src="https://img.shields.io/badge/GitHub-KayX-111111?style=for-the-badge&logo=github&logoColor=00ff99" />
   </a>
-  <a href="https://paypal.me/kayxscripts?country.x=ES&locale.x=es_ES" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=PayPal&logo=paypal&label=&color=00457C&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="paypal logo"  />
+  <a href="#">
+    <img src="https://img.shields.io/badge/Discord-Developer-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-</div>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-0077ff?style=for-the-badge" />
+  </a>
+  <a href="#">
+    <img src="https://img.shields.io/badge/Status-Always%20Building-00ff99?style=for-the-badge" />
+  </a>
+</p>
 
-###
+---
 
-<br clear="both">
+## 🧠 About Me
 
-![Snake animation](./github-contribution-grid-snake.svg)
-###
+I'm **KayX**, a passionate **Full-Stack Developer** focused on building scalable, secure and modern systems.
 
-<br clear="both">
+💡 I specialize in:
+- 🤖 Discord Bots & Automation Systems  
+- 🌐 Full-Stack Web Applications & Dashboards  
+- 🔐 Authentication, Licenses & Secure APIs  
+- 🎮 Minecraft / FiveM Development Tools  
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=KayXSC.KayXSC&right_color=black"  />
-</div>
+---
 
-###
+## ⚡ Current Focus
+
+- Building **advanced Discord bots** with modular architecture  
+- Developing **web dashboards** with modern UI/UX  
+- Creating **license systems** with MongoDB + API validation  
+- Improving security & performance in every project  
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,tailwind,mongodb,mysql,git,linux,docker&theme=dark" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+- **KayX Multi-Purpose Bot** → Moderation, tickets, music, utilities & dashboard  
+- **Minecraft Network Website** → Login/Register, Admin Panel, Store & Blog  
+- **License System Platform** → API validation, expiration system & security features  
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KayX&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayX&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="160" />
+</p>
+
+---
+
+## 🌍 Contact
+
+📩 Feel free to reach out if you want to collaborate or work on a project.
+
+- 💬 Discord: `YOUR_DISCORD`
+- 🌐 Portfolio: `Coming soon`
+- 📌 GitHub: [KayX](https://github.com/KayX)
+
+---
+
+> **"I don’t just write code... I build systems."** 🚀
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:0077ff&height=120&section=footer" />
+</p>
