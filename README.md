@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/KayX">
-    <img src="https://img.shields.io/badge/GitHub-KayX-111111?style=for-the-badge&logo=github&logoColor=00ff99" />
+  <a href="https://github.com/KayXDev">
+    <img src="https://img.shields.io/badge/GitHub-KayXDev-111111?style=for-the-badge&logo=github&logoColor=00ff99" />
   </a>
   <a href="#">
     <img src="https://img.shields.io/badge/Discord-Developer-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
