@@ -75,8 +75,8 @@ I'm **KayX**, a passionate **Full-Stack Developer** focused on building scalable
 
 📩 Feel free to reach out if you want to collaborate or work on a project.
 
-- 💬 Discord: `YOUR_DISCORD`
-- 🌐 Portfolio: `Coming soon`
+- 💬 Discord: `ᴋᴀʏx`
+- 🌐 Portfolio: `Coming soon...`
 - 📌 GitHub: [KayX](https://github.com/KayX)
 
 ---
