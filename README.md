@@ -4,8 +4,8 @@
 
 <h3 align="center">🚀 Full-Stack Developer | Discord Bots | Web Systems | Automation</h3>
 
-<p align=“center”>
-  <img src=“https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3500&pause=800&color=00FF99&center=true&vCenter=true&width=750&lines=Building+modern+systems+with+clean+code.;Discord+Bots+|Web+Apps+|APIs+|Databases.;Security%2C+performance+and+scalability+focused.;Always+learning%2C+always+improving.” />
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3500&pause=800&color=00FF99&center=true&vCenter=true&width=750&lines=Building+modern+systems+with+clean+code.;Discord+Bots+%7C+Web+Apps+%7C+APIs+%7C+Databases.;Security%2C+performance+and+scalability+focused.;Always+learning%2C+always+improving." />
 </p>
 
 <p align="center">
