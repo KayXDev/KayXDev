@@ -65,10 +65,10 @@ I'm **KayX**, a passionate **Full-Stack Developer** focused on building scalable
 ## 📦 Featured Repositories
 
 <p align="center">
-  <a href="https://github.com/KayXDev/KayXDev">
+  <a href="https://github.com/KayXDev/KayX-CasinoBot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KayXDev&repo=KayXDev&theme=tokyonight&border_radius=12" />
   </a>
-  <a href="https://github.com/KayXDev/REPO-EXAMPLE">
+  <a href="https://github.com/KayXDev/KayX-CasinoBot">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=KayXDev&repo=REPO-EXAMPLE&theme=tokyonight&border_radius=12" />
   </a>
 </p>
