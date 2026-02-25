@@ -86,3 +86,11 @@ I'm **KayX**, a passionate **Full-Stack Developer** focused on building scalable
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:0077ff&height=120&section=footer" />
 </p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=KayXDev&color=brightgreen" alt="Cuenta de visitas" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:0077ff&height=120&section=footer" />
+</p>
