@@ -62,11 +62,16 @@ I'm **KayX**, a passionate **Full-Stack Developer** focused on building scalable
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Repository Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KayXDev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayXDev&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="160" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=KayXDev&theme=tokyonight" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KayXDev&theme=tokyonight" height="150" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KayXDev&theme=tokyonight" height="150" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=KayXDev&theme=tokyonight&utcOffset=8" height="150" />
 </p>
 
 ---
