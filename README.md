@@ -65,8 +65,8 @@ I'm **KayX**, a passionate **Full-Stack Developer** focused on building scalable
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KayX&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayX&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=KayXDev&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KayXDev&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" height="160" />
 </p>
 
 ---
