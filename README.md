@@ -69,7 +69,7 @@ I'm **KayX**, a passionate **Full-Stack Developer** focused on building scalable
 </a>
 <p>Main Repo.</p>
 
-<a href="https://github.com/KayXDev/KayXDev">
+<a href="https://github.com/KayXDev/KayX-CasinoBot">
   <img src="https://img.shields.io/github/stars/KayXDev/KayX-CasinoBot?style=for-the-badge&label=KayX%20CasinoBot&color=00ff99" />
 </a>
 <p>Best Discord Casino out there.</p>
