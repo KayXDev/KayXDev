@@ -81,7 +81,7 @@ I'm **KayX**, a passionate **Full-Stack Developer** focused on building scalable
 
 ---
 
-> **"I don’t just write code... I build systems."** 🚀
+> **"I don’t just write code... I build systems. KayX Dev"** 🚀
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=KayXDev&color=brightgreen" alt="Cuenta de visitas" />
