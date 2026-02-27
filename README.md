@@ -74,9 +74,9 @@ Full-stack developer, TypeScript, Node.js, Next.js, React, Tailwind CSS, MongoDB
 - GitHub: https://github.com/KayXDev
 - Portfolio: coming soon
   
-<div align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=http://188.165.82.209:3000/views&query=$.views&label=Visitors&color=blue" />
-</div>
+<p align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=http://188.165.82.209:3000/count&t=TIMESTAMP&query=$.views&label=Visitors&color=blue&cacheSeconds=30" />
+</p>
 
 <p align="center">
   <img
