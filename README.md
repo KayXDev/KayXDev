@@ -73,10 +73,10 @@ Full-stack developer, TypeScript, Node.js, Next.js, React, Tailwind CSS, MongoDB
 - Discord: **ᴋᴀʏx**
 - GitHub: https://github.com/KayXDev
 - Portfolio: coming soon
-
-<p align="center">
-  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=KayXDev&color=brightgreen" />
-</p>
+  
+<div align="center">
+  <img src="https://img.shields.io/badge/dynamic/json?url=http://188.165.82.209:3000/views&query=$.views&label=Visitors&color=blue" />
+</div>
 
 <p align="center">
   <img
