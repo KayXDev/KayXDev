@@ -1,97 +1,86 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:0077ff&height=180&section=header&text=KayX&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
+  <img
+    alt="KayX profile banner"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:0077ff&height=180&section=header&text=KayX&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35"
+  />
 </p>
 
-<h3 align="center">🚀 Full-Stack Developer | Discord Bots | Web Systems | Automation</h3>
+<h1 align="center">KayX — Full-Stack Developer</h1>
+
+<p align="center"><strong>Discord Bots • Web Systems • Automation • APIs</strong></p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3500&pause=800&color=00FF99&center=true&vCenter=true&width=750&lines=KayX+Dev;Building+modern+systems+with+clean+code.;Discord+Bots+%7C+Web+Apps+%7C+APIs+%7C+Databases.;Security%2C+performance+and+scalability+focused.;Always+learning%2C+always+improving." />
+  I build modern, secure, and scalable products with <strong>TypeScript</strong>, <strong>Node.js</strong>, <strong>Next.js</strong>, and <strong>MongoDB</strong> — focused on clean architecture, performance, and maintainability.
 </p>
 
 <p align="center">
-  <a href="https://github.com/KayXDev">
-    <img src="https://img.shields.io/badge/GitHub-KayXDev-111111?style=for-the-badge&logo=github&logoColor=00ff99" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Discord-Developer-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Focus-Full%20Stack%20Development-0077ff?style=for-the-badge" />
-  </a>
-  <a href="#">
-    <img src="https://img.shields.io/badge/Status-Always%20Building-00ff99?style=for-the-badge" />
-  </a>
+  <a href="https://github.com/KayXDev">GitHub</a> •
+  <a href="https://www.999wrldnetwork.es">Live Project</a> •
+  <a href="#contact">Contact</a>
 </p>
 
----
-
-## 🧠 About Me
-
-I'm **KayX**, a passionate **Full-Stack Developer** focused on building scalable, secure and modern systems.
-
-💡 I specialize in:
-- 🤖 Discord Bots & Automation Systems  
-- 🌐 Full-Stack Web Applications & Dashboards  
-- 🔐 Authentication, Licenses & Secure APIs  
-- 🎮 Minecraft / FiveM Development Tools  
-
----
-
-## ⚡ Current Focus
-
-- Building **advanced Discord bots** with modular architecture  
-- Developing **web dashboards** with modern UI/UX  
-- Creating **license systems** with MongoDB + API validation  
-- Improving security & performance in every project  
-
----
-
-## 🛠️ Tech Stack
-
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,tailwind,mongodb,mysql,git,linux,docker&theme=dark" />
+  <img
+    alt="Typing intro: KayX Dev, full-stack developer, Discord bots, web apps, APIs, databases"
+    src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=20&duration=3500&pause=800&color=00FF99&center=true&vCenter=true&width=780&lines=KayX+Dev;Full-stack+developer+%7C+Discord+bots+%7C+Automation;TypeScript+%7C+Node.js+%7C+Next.js+%7C+MongoDB;Security%2C+performance%2C+and+scalability+focused."
+  />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## About
 
-- **KayX Multi-Purpose Bot** → Moderation, tickets, music, utilities & dashboard  
-- **Minecraft Network Website** → Login/Register, Admin Panel, Store & Blog  
-- **License System Platform** → API validation, expiration system & security features  
+- Full-stack developer building **web apps, dashboards, and APIs**
+- Discord bot development: **moderation, tickets, automations, integrations**
+- Authentication and secure backends: **NextAuth, JWT, role-based access**
+- Databases: **MongoDB/Mongoose**, SQL when needed
 
----
+## What I’m focused on
 
-## 📦 Featured Repositories
+- Building **modular Discord bots** with clean, maintainable code
+- Developing **Next.js dashboards** with modern UI/UX
+- Designing **secure APIs** (validation, rate-limits, permissions)
+- Improving reliability: **observability, performance, and DX**
 
-<a href="https://github.com/KayXDev/KayXDev">
-  <img src="https://img.shields.io/github/stars/KayXDev/KayXDev?style=for-the-badge&label=KayXDev&color=0077ff" />
-</a>
-<p>Main Repo.</p>
-
-<a href="https://github.com/KayXDev/KayX-CasinoBot">
-  <img src="https://img.shields.io/github/stars/KayXDev/KayX-CasinoBot?style=for-the-badge&label=KayX%20CasinoBot&color=00ff99" />
-</a>
-<p>Best Discord Casino out there.</p>
-
----
-
-## 🌍 Contact
-
-📩 Feel free to reach out if you want to collaborate or work on a project.
-
-- 💬 Discord: `ᴋᴀʏx`
-- 🌐 Portfolio: `Coming soon...`
-- 📌 GitHub: [KayX](https://github.com/KayXDev)
-
----
-
-> **"I don’t just write code... I build systems - KayX"**
+## Tech stack
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=KayXDev&color=brightgreen" alt="Cuenta de visitas" />
+  <img alt="Tech stack icons" src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,nextjs,tailwind,mongodb,mysql,git,linux,docker&theme=dark" />
+</p>
+
+**Languages:** TypeScript, JavaScript
+
+**Frontend:** React, Next.js, Tailwind CSS
+
+**Backend:** Node.js, Express, REST APIs, Auth (NextAuth)
+
+**Databases:** MongoDB (Mongoose), MySQL
+
+**DevOps & Tools:** Git, Linux, Docker
+
+## Featured work
+
+- **Minecraft Network Website** — Next.js 14 + TypeScript/Tailwind, MongoDB/Mongoose, NextAuth, admin panel, news/blog, forum, store, and support tickets.
+- **Multi-purpose Discord Bot** — moderation, tickets, utilities, integrations, and automation.
+- **License System Platform** — API validation, expiration logic, and security-focused backend.
+
+## Keywords
+
+Full-stack developer, TypeScript, Node.js, Next.js, React, Tailwind CSS, MongoDB, Mongoose, Express, REST API, authentication, NextAuth, Discord bots, automation, dashboards.
+
+## Contact
+
+- Discord: **ᴋᴀʏx**
+- GitHub: https://github.com/KayXDev
+- Portfolio: coming soon
+
+<p align="center">
+  <img alt="Profile views" src="https://komarev.com/ghpvc/?username=KayXDev&color=brightgreen" />
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:0077ff&height=120&section=footer" />
+  <img
+    alt="Footer banner"
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:00ff99,100:0077ff&height=120&section=footer"
+  />
 </p>
