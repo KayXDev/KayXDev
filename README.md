@@ -75,7 +75,7 @@ Full-stack developer, TypeScript, Node.js, Next.js, React, Tailwind CSS, MongoDB
 - Portfolio: coming soon
   
 <p align="center">
-  <img src="https://img.shields.io/badge/dynamic/json?url=http://188.165.82.209:3000/count&t=TIMESTAMP&query=$.views&label=Visitors&color=blue&cacheSeconds=30" />
+  <img src="http://188.165.82.209:3000/badge" />
 </p>
 
 <p align="center">
